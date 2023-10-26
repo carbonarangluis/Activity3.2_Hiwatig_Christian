@@ -88,3 +88,6 @@ VALUES
 
     ALTER TABLE item
     ADD item_price DECIMAL (10,2);
+
+    SELECT FROM Hero
+    Where is_active = true;
